@@ -1,7 +1,7 @@
 # Mathematical-Functions
 
 fun_math.py is a module which contains three functions: 
-cal_factorial(integer) returns the factorial of a psoitive integer 
+cal_factorial(integer) returns the factorial of a positive integer 
 list_multiples(number, length) returns a list of multiples of "number" that is "length" long
 find_max(a_list) returns the maximum value in a list
 
